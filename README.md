@@ -4,6 +4,10 @@
 
 The goal of this project was to understand which objective and subjective characteristics of a person's face are most highly correlated with perceived attractiveness.  
 
+## Link
+
+[Chicago Face Database App](https://jzimmerman.shinyapps.io/ChicagoFaceDatabaseShinyDashboard/?_ga=2.268686836.405763992.1661361035-2118574259.1661361035)
+
 ### History
 
 This project started as a Tableau dashboard in early 2020 and I later recreated a lot of the same descriptive analyses in an R Shiny app with the addition of some predictive analytics later in the year.
